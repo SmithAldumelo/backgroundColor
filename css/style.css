@@ -1,0 +1,17 @@
+
+.change{
+    text-align: center;
+    padding-top: 20%;
+}
+.btn{
+    border: 5px solid #5837D0;
+    font-size: 30px;
+    font-weight: 700;
+    color: blue;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+    font-family: "Josefin Sans", sans-serif; 
+    
+}
+
